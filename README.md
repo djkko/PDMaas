@@ -1,7 +1,3 @@
-PDMaas README.md
-
-# 还正在编写中，未完成。。。
-
 ![](public/icons/pdmaas-logo-256*256.png)
 
 **全功能数据建模工具，简洁强大，全库适配，国产优选**
